@@ -1,7 +1,5 @@
 # CSharp_logs
 
---- 
-
 Générer un fichier de journalisation (*log*) et y écrire des enregistrements à date. Données non structurées.
 
 ---
